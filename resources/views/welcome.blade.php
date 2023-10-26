@@ -19,7 +19,49 @@
                 </div>
                 @endforeach
 
+            </div>
+            <div class="more-row d-flex justify-content-center align-items-center">
+                <div class="more text-center">
+                    <h6>LOAD MORE</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="links">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="link-menu d-flex">
+                    <img src="{{Vite::asset('resources/img/buy-comics-digital-comics.png')}}">
+                    <p>Digital comics</p>
+
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="link-menu d-flex">
+                    <img src="{{Vite::asset('resources/img/buy-comics-merchandise.png')}}">
+                    <p>Merchandise</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="link-menu d-flex">
+                    <img src="{{Vite::asset('resources/img/buy-comics-subscriptions.png')}}">
+                    <p>subscription</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="link-menu d-flex">
+                    <img src="{{Vite::asset('resources/img/buy-comics-shop-locator.png')}}">
+                    <p>Comic shop locator</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="link-menu d-flex">
+                    <img src="{{Vite::asset('resources/img/buy-dc-power-visa.svg')}}">
+                    <p>DC power Visa</p>
+                </div>
             </div>
         </div>
     </div>

@@ -64,3 +64,39 @@ nav {
     width: 130px;
     aspect-ratio: 1/1;
 }
+
+.more {
+    background-color: rgb(16, 90, 250);
+    padding: 1rem;
+    width: 140px;
+}
+
+
+//link
+
+.links {
+
+    background-color: rgb(16, 90, 250);
+    padding: 1rem 0;
+
+
+    .link-menu {
+        width: 70%;
+        padding: 1rem;
+        margin: auto;
+        color: white;
+        text-transform: uppercase;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .link {
+        gap: 1rem;
+    }
+
+    .link-menu img {
+        max-width: 70px;
+        max-height: 70px;
+    }
+}
