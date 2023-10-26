@@ -1,29 +1,5 @@
 <style>
-    body {
-        font-family: 'Fira Sans Condensed', sans-serif;
 
-    }
-
-    .navbar {
-        flex-wrap: nowrap;
-    }
-
-    .logo img {
-        width: 80px;
-    }
-
-    nav {
-        width: 70%;
-        margin: auto;
-    }
-
-    .nav-item {
-        text-transform: uppercase;
-    }
-
-    .nav-wrap {
-        height: 80px;
-    }
 </style>
 
 <header>
