@@ -7,14 +7,15 @@ body {
 
 .navbar {
     flex-wrap: nowrap;
+    padding: 1rem;
 }
 
 .logo img {
-    width: 80px;
+    width: 70px;
 }
 
 nav {
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
 
@@ -95,8 +96,40 @@ nav {
         gap: 1rem;
     }
 
-    .link-menu img {
+    img {
         max-width: 70px;
         max-height: 70px;
     }
+}
+
+//footer
+
+
+.footer-menu {
+    background-image: url('../img/footer-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 1rem;
+}
+
+.wrapper {
+    width: 70%;
+    margin: auto;
+    color: #8b8b8b;
+}
+
+.row {
+    position: relative;
+}
+
+ul h3 {
+    color: white;
+}
+
+.logo-bg img {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 340px;
+
 }

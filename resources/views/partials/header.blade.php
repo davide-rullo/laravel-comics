@@ -1,9 +1,5 @@
-<style>
-
-</style>
-
 <header>
-    <nav class="navbar d-flex justify-content-between pb-0">
+    <nav class="navbar d-flex justify-content-between ">
 
         <div class="logo">
             <img src="{{Vite::asset('resources/img/dc-logo.png')}}" alt="">
