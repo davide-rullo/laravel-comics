@@ -9,7 +9,7 @@
     <div class="content d-flex align-items-center">
         <div class="container">
 
-            <h3 class="title mb-3">CURRENT SERIES</h3>
+            <h5 class="title mb-3">CURRENT SERIES</h5>
 
             <div class="row row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-6">
                 @foreach ($comics as $comic)
