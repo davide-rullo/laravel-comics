@@ -8,34 +8,54 @@
             <ul class="navbar-nav d-flex flex-row gap-5">
                 <div class="nav-wrap d-flex justify-content-center align-items-center gap-4">
                     <li class="nav-item">
-                        <h6>Characters</h6>
+                        <a href="{{ route('characters') }}">
+                            <h6>Characters</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Comics</h6>
+                        <a href="#">
+                            <h6>Comics</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Movies</h6>
+                        <a href="#">
+                            <h6>Movies</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>TV</h6>
+                        <a href="#">
+                            <h6>TV</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Games</h6>
+                        <a href="#">
+                            <h6>Games</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Collectibles</h6>
+                        <a href="#">
+                            <h6>Collectibles</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Videos</h6>
+                        <a href="#">
+                            <h6>Videos</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Fans</h6>
+                        <a href="#">
+                            <h6>Fans</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>News</h6>
+                        <a href="#">
+                            <h6>News</h6>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <h6>Shop</h6>
+                        <a href="#">
+                            <h6>Shop</h6>
+                        </a>
                     </li>
                 </div>
             </ul>
